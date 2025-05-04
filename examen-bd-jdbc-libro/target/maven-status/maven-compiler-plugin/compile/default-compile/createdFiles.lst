@@ -1,0 +1,12 @@
+es\ies\puerto\modelo\db\services\DatabaseManager.class
+es\ies\puerto\modelo\db\services\LibroService.class
+es\ies\puerto\config\ConfigManager$ConfigProperties.class
+es\ies\puerto\config\ConfigManager.class
+es\ies\puerto\modelo\db\services\PrestamoService.class
+es\ies\puerto\modelo\db\services\AutorService.class
+es\ies\puerto\PruebaApp.class
+es\ies\puerto\modelo\db\entidades\Libro.class
+es\ies\puerto\modelo\db\entidades\Prestamo.class
+es\ies\puerto\modelo\db\services\UsuarioService.class
+es\ies\puerto\modelo\db\entidades\Autor.class
+es\ies\puerto\modelo\db\entidades\Usuario.class

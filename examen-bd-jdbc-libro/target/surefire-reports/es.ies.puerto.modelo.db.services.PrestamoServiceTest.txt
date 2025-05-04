@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: es.ies.puerto.modelo.db.services.PrestamoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.401 s <<< FAILURE! - in es.ies.puerto.modelo.db.services.PrestamoServiceTest
+es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerPrestamosActivosTest  Time elapsed: 0.019 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerPrestamosActivosTest(PrestamoServiceTest.java:112)
+
+es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerTodosPrestamosTest  Time elapsed: 0.018 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <18> but was: <16>
+	at es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerTodosPrestamosTest(PrestamoServiceTest.java:45)
+
+es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerPrestamosVencidosTest  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at es.ies.puerto.modelo.db.services.PrestamoServiceTest.obtenerPrestamosVencidosTest(PrestamoServiceTest.java:88)
+
+es.ies.puerto.modelo.db.services.PrestamoServiceTest.crearPrestamoTest  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at es.ies.puerto.modelo.db.services.PrestamoServiceTest.crearPrestamoTest(PrestamoServiceTest.java:32)
+
